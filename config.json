@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsrocess",
+        "uuid": 2481592,
+        "checksum": "nn8apa"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
